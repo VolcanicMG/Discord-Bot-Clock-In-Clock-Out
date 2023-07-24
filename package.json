@@ -1,0 +1,21 @@
+{
+  "name": "cosmic_bot",
+  "version": "1.0.0",
+  "description": "Cosmic Bot that manages all the tasks the Cosmic Kingdom Developers are too lazy to manage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Codeloquence, Volcanic",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
